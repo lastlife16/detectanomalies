@@ -1,20 +1,20 @@
 {
-  "name": "detectanomalies",
+  "name": "dpaymentgateway",
   "version": "1.0.0", 
-  "description": "detectanomalies from lastlife",
+  "description": "This PaymentGateway class provides basic functionality to process payments and initiate refunds. You can further extend and customize it based on the specific requirements of the payment gateway you are integrating with.",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lastlife16/paymentgateway.git"
   },
   "keywords": [
     "", 
     "",
     ""
   ],
-  "author": "",
+  "author": "lastlife",
   "license": "MIT"
 }
