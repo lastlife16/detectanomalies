@@ -1,6 +1,6 @@
 {
   "name": "dpaymentgateway",
-  "version": "1.0.0", 
+  "version": "1.0.1", 
   "description": "This PaymentGateway class provides basic functionality to process payments and initiate refunds. You can further extend and customize it based on the specific requirements of the payment gateway you are integrating with.",
   "main": "./src/index.js",
   "scripts": {
